@@ -26,3 +26,8 @@ https://www.figma.com/file/5Od6ASSqgKyoasRiCXXuvu/Pokedex?node-id=0%3A1
 ## Sugestões de melhorias
 
 - Em vez de paginação, usar scroll infinito.
+
+## Instruções
+
+- Inicie um repositório, case seja privado, convide danilomartinelli429@gmail.com como maintainer;
+- Mande um email para stephanie.rocha@smartbit.digital com o assunto: Teste Front-End e no corpo, seu nome completo e o link para o repositório.

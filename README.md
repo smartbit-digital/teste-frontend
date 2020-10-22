@@ -22,3 +22,7 @@ https://www.figma.com/file/5Od6ASSqgKyoasRiCXXuvu/Pokedex?node-id=0%3A1
 - Utilizar Typescript
 - Utilizar um préprocessador ou CSS IN JS
 - Utilizar Context API
+
+## Sugestões de melhorias
+
+- Em vez de paginação, usar scroll infinito.
